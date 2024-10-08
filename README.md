@@ -10,7 +10,7 @@ This SDK allows you to authenticate Telegram users and validate their licenses t
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/LicenseChain/licensechain-nodejs-sdk.git
+   git clone https://github.com/LicenseChain/NodeJS-SDK.git
 
 2. Navigate to the project directory:
     ```bash
@@ -28,15 +28,15 @@ This SDK allows you to authenticate Telegram users and validate their licenses t
 ## Usage
 1. Import and initialize the SDK:
     ```bash
-    git clone https://github.com/LicenseChain/licensechain-nodejs-sdk.git
+    git clone https://github.com/LicenseChain/NodeJS-SDK.git
 
 2. Import and initialize the SDK:
     ```bash
-    git clone https://github.com/LicenseChain/licensechain-nodejs-sdk.git
+    git clone https://github.com/LicenseChain/NodeJS-SDK.git
 
 1. Import and initialize the SDK:
     ```bash
-    git clone https://github.com/LicenseChain/licensechain-nodejs-sdk.git
+    git clone https://github.com/LicenseChain/NodeJS-SDK.git
 
 # Bugs
 If the default example that wasn’t included in your software isn’t working as expected, please pop over to https://t.me/LicenseChainBot and lodge a bug report via the Support Option.
@@ -51,3 +51,7 @@ LicenseChain is under the Elastic License 2.0.
 - You’re also not permitted to change, remove, or obscure any licensing, copyright, or other notices from the licensor within the software. Any use of the licensor’s trademarks must comply with relevant laws.
 
 Cheers for sticking to these guidelines. We put a lot of effort into developing LicenseChain and don't take copyright breaches lightly.
+
+## Support
+
+If you have any questions or need help, feel free to open an issue or contact us at support@licensechain.app.
